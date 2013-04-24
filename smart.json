@@ -1,0 +1,8 @@
+{
+  "name"       : "OpenTok",
+  "description": "OpenTok for TokBox api's wrapped up for meteor",
+  "homepage"   : "",
+  "author"     : "Peter de Croos (http://blog.peterdecroos.com)",
+  "version"    : "1.1.0",
+  "git"        : ""
+}

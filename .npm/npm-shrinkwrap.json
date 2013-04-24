@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "opentok": {
+      "version": "0.3.1",
+      "from": "opentok@0.3.1",
+      "resolved": "https://registry.npmjs.org/opentok/-/opentok-0.3.1.tgz"
+    }
+  }
+}

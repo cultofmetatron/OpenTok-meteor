@@ -6,7 +6,7 @@ Package.describe({
   summary: "OpenTok Api exposed to meteor"
 });
 
-Npm.depends({"opentok" : "0.3.x"});
+Npm.depends({"opentok" : "0.3.1"});
 
 Package.on_use(function(api) {
   api.add_files('client/tokbox-client.js', 'client');

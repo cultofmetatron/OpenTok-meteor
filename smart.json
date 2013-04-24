@@ -1,8 +1,8 @@
 {
   "name"       : "OpenTok",
-  "description": "OpenTok for TokBox api's wrapped up for meteor",
+  "description": "OpenTok for TokBox api's wrapped up for meteor, npm; 0.3.x client: 1.1.4",
   "homepage"   : "https://github.com/cultofmetatron/OpenTok-meteor",
   "author"     : "Peter de Croos (http://blog.peterdecroos.com)",
-  "version"    : "1.1.0",
+  "version"    : "1.0.0",
   "git"        : "https://github.com/cultofmetatron/OpenTok-meteor.git"
 }
